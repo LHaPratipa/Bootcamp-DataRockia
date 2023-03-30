@@ -12,3 +12,4 @@ All Project about learning of Data Science Bootcamp
 
 ## Homeworks
 * Google Sheet (https://docs.google.com/spreadsheets/d/1zHktB09qweU0KS500k4o5mM3xwVrYmBxDXatjmANaxE/edit?usp=sharing)
+* Python (https://colab.research.google.com/drive/1rsNEdWtymDq0YveX6HhgJmClxCcm8PwK?usp=sharing)

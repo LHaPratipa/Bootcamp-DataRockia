@@ -1,4 +1,4 @@
-# Bootcamp-DataRockia
+# Bootcamp-DataRockie
 All Project about learning of Data Science Bootcamp
 
 ## Programing/Tools
